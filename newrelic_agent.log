@@ -232,3 +232,11 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:18.155Z","msg":"Starting New Relic for Node.js connection process."}
 {"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:20.153Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BEiaMnnzruCXACRBvxSPyAldCTHgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
 {"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:20.153Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22668,"time":"2019-06-18T18:48:01.118Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22668,"time":"2019-06-18T18:48:01.447Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22668,"time":"2019-06-18T18:48:04.089Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BDv36re262GgACRBvxSPyAldCTJYAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22668,"time":"2019-06-18T18:48:04.089Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":23094,"time":"2019-06-18T18:59:34.418Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":23094,"time":"2019-06-18T18:59:34.725Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":23094,"time":"2019-06-18T18:59:36.937Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BNj6OlWGe4heACRBvxSPyAldCTTsAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":23094,"time":"2019-06-18T18:59:36.938Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
