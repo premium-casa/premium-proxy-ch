@@ -1,0 +1,234 @@
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84718,"time":"2019-06-15T03:52:19.800Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84718,"time":"2019-06-15T03:52:20.102Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84718,"time":"2019-06-15T03:52:22.010Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BGerO-r-DMjsACRBvxSPyAldBGvYAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84718,"time":"2019-06-15T03:52:22.010Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84783,"time":"2019-06-15T03:53:18.613Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84783,"time":"2019-06-15T03:53:18.875Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84783,"time":"2019-06-15T03:53:20.791Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BO1fTOLgxzluACRBvxSPyAldBGwUAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84783,"time":"2019-06-15T03:53:20.792Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84858,"time":"2019-06-15T03:54:50.131Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84858,"time":"2019-06-15T03:54:50.409Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84858,"time":"2019-06-15T03:54:52.540Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BJuqJ23uX3NaACRBvxSPyAldBGxQAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84858,"time":"2019-06-15T03:54:52.540Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84884,"time":"2019-06-15T03:55:03.357Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84884,"time":"2019-06-15T03:55:03.620Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84894,"time":"2019-06-15T03:55:04.350Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84894,"time":"2019-06-15T03:55:04.610Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84894,"time":"2019-06-15T03:55:05.902Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BPzV_7-Lh3beACRBvxSPyAldBGyMAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84894,"time":"2019-06-15T03:55:05.902Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:55:07.937Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:55:08.197Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:55:09.518Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BOuqZ4Og6QLYACRBvxSPyAldBGyMAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:55:09.519Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:58:10.531Z","msg":"Dropped 214 of 314 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:58:10.532Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:58:10.532Z","msg":"Dropped 4879 of 14879 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":84913,"time":"2019-06-15T03:58:10.532Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85103,"time":"2019-06-15T04:00:20.959Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85103,"time":"2019-06-15T04:00:21.267Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85103,"time":"2019-06-15T04:00:23.298Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BBM3jZquEcIMACRBvxSPyAldBG24AAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85103,"time":"2019-06-15T04:00:23.298Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85123,"time":"2019-06-15T04:00:30.087Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85123,"time":"2019-06-15T04:00:30.342Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85123,"time":"2019-06-15T04:00:31.569Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BHRgCeXrHs38ACRBvxSPyAldBG24AAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85123,"time":"2019-06-15T04:00:31.570Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85153,"time":"2019-06-15T04:01:01.059Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85153,"time":"2019-06-15T04:01:01.328Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:01:01.781Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:01:02.040Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:01:04.052Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BK87WFCCu71qACRBvxSPyAldBG30AAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:01:04.052Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:03:05.177Z","msg":"Dropped 109 of 209 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:03:05.177Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:03:05.177Z","msg":"Dropped 6725 of 16725 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:03:05.177Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:04:05.177Z","msg":"Dropped 394 of 494 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:04:05.177Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:05:05.295Z","msg":"Dropped 482 of 582 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:05:05.295Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:05:05.295Z","msg":"Dropped 5070 of 15070 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:05:05.295Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:06:05.295Z","msg":"Dropped 3139 of 13139 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:06:05.295Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:07:05.294Z","msg":"Dropped 129 of 229 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:07:05.294Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:07:05.294Z","msg":"Dropped 1121 of 11121 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:07:05.294Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:08:05.292Z","msg":"Dropped 2170 of 12170 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:08:05.292Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:09:05.289Z","msg":"Dropped 5113 of 15113 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:09:05.289Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:10:05.296Z","msg":"Dropped 1469 of 11469 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:10:05.296Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:11:05.294Z","msg":"Dropped 88 of 188 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:11:05.294Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:11:05.294Z","msg":"Dropped 6098 of 16098 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:11:05.294Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:12:05.296Z","msg":"Dropped 84 of 184 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:12:05.296Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:12:05.296Z","msg":"Dropped 2654 of 12654 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":85157,"time":"2019-06-15T04:12:05.296Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85506,"time":"2019-06-15T04:12:41.074Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85506,"time":"2019-06-15T04:12:41.338Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85506,"time":"2019-06-15T04:12:43.225Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BJ64EImt8TWPACRBvxSPyAldBHCIAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85506,"time":"2019-06-15T04:12:43.225Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85525,"time":"2019-06-15T04:12:43.832Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85525,"time":"2019-06-15T04:12:44.096Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85525,"time":"2019-06-15T04:12:46.006Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BM9qvDm6T6y2ACRBvxSPyAldBHCIAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85525,"time":"2019-06-15T04:12:46.006Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85642,"time":"2019-06-15T04:13:28.579Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85642,"time":"2019-06-15T04:13:28.833Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85737,"time":"2019-06-15T04:14:05.716Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85737,"time":"2019-06-15T04:14:05.969Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85769,"time":"2019-06-15T04:14:12.518Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85769,"time":"2019-06-15T04:14:12.782Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85791,"time":"2019-06-15T04:14:14.179Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85791,"time":"2019-06-15T04:14:14.432Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85803,"time":"2019-06-15T04:14:16.365Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85803,"time":"2019-06-15T04:14:16.627Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85807,"time":"2019-06-15T04:14:17.134Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85807,"time":"2019-06-15T04:14:17.391Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85811,"time":"2019-06-15T04:14:17.867Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85811,"time":"2019-06-15T04:14:18.124Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85821,"time":"2019-06-15T04:14:19.107Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85821,"time":"2019-06-15T04:14:19.381Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85826,"time":"2019-06-15T04:14:20.602Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85826,"time":"2019-06-15T04:14:20.858Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85833,"time":"2019-06-15T04:14:22.486Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85833,"time":"2019-06-15T04:14:22.755Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85833,"time":"2019-06-15T04:14:24.284Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BH28lsfUv8xPACRBvxSPyAldBHEAAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85833,"time":"2019-06-15T04:14:24.284Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85857,"time":"2019-06-15T04:14:33.883Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85857,"time":"2019-06-15T04:14:34.139Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85857,"time":"2019-06-15T04:14:37.676Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BEf0_GvD7GVVACRBvxSPyAldBHEAAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85857,"time":"2019-06-15T04:14:37.677Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85875,"time":"2019-06-15T04:14:38.882Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85875,"time":"2019-06-15T04:14:39.136Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85875,"time":"2019-06-15T04:14:40.323Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BBfO1_jvOTedACRBvxSPyAldBHEAAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85875,"time":"2019-06-15T04:14:40.323Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85953,"time":"2019-06-15T04:16:18.671Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85953,"time":"2019-06-15T04:16:18.989Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85972,"time":"2019-06-15T04:16:20.102Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85972,"time":"2019-06-15T04:16:20.363Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85984,"time":"2019-06-15T04:16:21.043Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":85984,"time":"2019-06-15T04:16:21.326Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86004,"time":"2019-06-15T04:16:23.782Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86004,"time":"2019-06-15T04:16:24.048Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86023,"time":"2019-06-15T04:16:25.716Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86023,"time":"2019-06-15T04:16:25.994Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86023,"time":"2019-06-15T04:16:27.270Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BH9gjkDDY25mACRBvxSPyAldBHF4AAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86023,"time":"2019-06-15T04:16:27.270Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86065,"time":"2019-06-15T04:16:33.231Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86065,"time":"2019-06-15T04:16:33.490Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86080,"time":"2019-06-15T04:16:35.714Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86080,"time":"2019-06-15T04:16:36.001Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86080,"time":"2019-06-15T04:16:37.287Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BGYucRPCPXlAACRBvxSPyAldBHF4AAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86080,"time":"2019-06-15T04:16:37.287Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86132,"time":"2019-06-15T04:17:23.046Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86132,"time":"2019-06-15T04:17:23.310Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86149,"time":"2019-06-15T04:17:24.176Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86149,"time":"2019-06-15T04:17:24.439Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86149,"time":"2019-06-15T04:17:26.332Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BP40mdiAIFp5ACRBvxSPyAldBHG0AAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86149,"time":"2019-06-15T04:17:26.332Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86252,"time":"2019-06-15T04:18:54.167Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86252,"time":"2019-06-15T04:18:54.428Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86270,"time":"2019-06-15T04:18:55.535Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86270,"time":"2019-06-15T04:18:55.799Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86270,"time":"2019-06-15T04:18:57.687Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BAYhvwiECqRMACRBvxSPyAldBHHwAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86270,"time":"2019-06-15T04:18:57.687Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:19:27.182Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:19:27.547Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:19:29.619Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BNc6k_CoRzCbACRBvxSPyAldBHIsAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:19:29.619Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:21:30.629Z","msg":"Dropped 282 of 382 datapoints for errorEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:21:30.629Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:21:30.630Z","msg":"Dropped 1636 of 11636 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86318,"time":"2019-06-15T04:21:30.630Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86402,"time":"2019-06-15T04:21:57.365Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86402,"time":"2019-06-15T04:21:57.759Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86420,"time":"2019-06-15T04:21:59.360Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86420,"time":"2019-06-15T04:21:59.681Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86420,"time":"2019-06-15T04:22:02.394Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BJjXFuzuqF-OACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86420,"time":"2019-06-15T04:22:02.394Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86446,"time":"2019-06-15T04:22:03.855Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86446,"time":"2019-06-15T04:22:04.122Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86446,"time":"2019-06-15T04:22:05.380Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BKwWdsOWeowRACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86446,"time":"2019-06-15T04:22:05.381Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86462,"time":"2019-06-15T04:22:06.556Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86462,"time":"2019-06-15T04:22:06.828Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86462,"time":"2019-06-15T04:22:08.190Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BPN66ValbfRvACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86462,"time":"2019-06-15T04:22:08.190Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86480,"time":"2019-06-15T04:22:10.032Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86480,"time":"2019-06-15T04:22:10.313Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86493,"time":"2019-06-15T04:22:11.415Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86493,"time":"2019-06-15T04:22:11.683Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86493,"time":"2019-06-15T04:22:13.250Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BLSwOpL3x2Q-ACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86493,"time":"2019-06-15T04:22:13.250Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86516,"time":"2019-06-15T04:22:16.514Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86516,"time":"2019-06-15T04:22:16.769Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86516,"time":"2019-06-15T04:22:18.322Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BNvax1jmkpzcACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86516,"time":"2019-06-15T04:22:18.322Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86544,"time":"2019-06-15T04:22:30.245Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86544,"time":"2019-06-15T04:22:30.505Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86544,"time":"2019-06-15T04:22:32.399Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BB2WnAGIc2vAACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86544,"time":"2019-06-15T04:22:32.399Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:22:42.943Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:22:43.215Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:22:44.470Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BFTgqO7tj7UAACRBvxSPyAldBHLgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:22:44.470Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:23:45.482Z","msg":"Dropped 1530 of 11530 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:23:45.482Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:24:45.483Z","msg":"Dropped 4218 of 14218 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:24:45.483Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:25:45.484Z","msg":"Dropped 3769 of 13769 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:25:45.484Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:26:45.485Z","msg":"Dropped 1803 of 11803 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:26:45.485Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:27:45.487Z","msg":"Dropped 3068 of 13068 datapoints for analyticsEvents.","component":"Harvest"}
+{"v":0,"level":40,"name":"newrelic","hostname":"mbp","pid":86565,"time":"2019-06-15T04:27:45.487Z","msg":"You may want to increase the limits for this event type.","component":"Harvest"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":87011,"time":"2019-06-15T04:36:43.670Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":87011,"time":"2019-06-15T04:36:44.018Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":87032,"time":"2019-06-15T04:36:44.979Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":87032,"time":"2019-06-15T04:36:45.236Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":87032,"time":"2019-06-15T04:36:47.124Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BDFeyFKgT3ncACRBvxSPyAldBHYoAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":87032,"time":"2019-06-15T04:36:47.124Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89019,"time":"2019-06-15T05:43:21.975Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89019,"time":"2019-06-15T05:43:22.309Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89041,"time":"2019-06-15T05:43:24.432Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89041,"time":"2019-06-15T05:43:24.697Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89064,"time":"2019-06-15T05:43:26.920Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89064,"time":"2019-06-15T05:43:27.184Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89080,"time":"2019-06-15T05:43:28.112Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89080,"time":"2019-06-15T05:43:28.368Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89093,"time":"2019-06-15T05:43:28.967Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89093,"time":"2019-06-15T05:43:29.231Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89105,"time":"2019-06-15T05:43:30.344Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89105,"time":"2019-06-15T05:43:30.607Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89109,"time":"2019-06-15T05:43:31.044Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89109,"time":"2019-06-15T05:43:31.303Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89109,"time":"2019-06-15T05:43:32.536Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BPvtuEGfXfKHACRBvxSPyAldBIXcAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89109,"time":"2019-06-15T05:43:32.536Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89122,"time":"2019-06-15T05:43:32.669Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89122,"time":"2019-06-15T05:43:32.923Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89122,"time":"2019-06-15T05:43:34.217Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BFtVVV33wtGJACRBvxSPyAldBIXcAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89122,"time":"2019-06-15T05:43:34.217Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89163,"time":"2019-06-15T05:43:48.131Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89163,"time":"2019-06-15T05:43:48.413Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89176,"time":"2019-06-15T05:43:49.171Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89176,"time":"2019-06-15T05:43:49.435Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89176,"time":"2019-06-15T05:43:50.718Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BB5gxGjhmLUnACRBvxSPyAldBIXcAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":89176,"time":"2019-06-15T05:43:50.719Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":91244,"time":"2019-06-15T16:04:45.486Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":91244,"time":"2019-06-15T16:04:45.766Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":91269,"time":"2019-06-15T16:04:46.934Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":91269,"time":"2019-06-15T16:04:47.193Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":91269,"time":"2019-06-15T16:04:49.158Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BJpJqkf6q8ZkACRBvxSPyAldBRdoAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":91269,"time":"2019-06-15T16:04:49.159Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22433,"time":"2019-06-18T18:45:12.191Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22433,"time":"2019-06-18T18:45:12.512Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22433,"time":"2019-06-18T18:45:14.516Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BHXGm3Xl31cYACRBvxSPyAldCTGkAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22433,"time":"2019-06-18T18:45:14.517Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:17.895Z","msg":"Using New Relic for Node.js. Agent version: 5.10.0; Node version: v8.15.1."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:18.155Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:20.153Z","msg":"Connected to collector-010.newrelic.com:443 with agent run ID BEiaMnnzruCXACRBvxSPyAldCTHgAAgBAAAjHQECBBSPyAgDAAY1LjEwLjAAA21icAASUHJlbWl1bS1DYXNhLVByb3h5.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"mbp","pid":22492,"time":"2019-06-18T18:46:20.153Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/2376127/applications/344967176","component":"collector_api"}
